@@ -79,3 +79,10 @@ footer p{
 .half-width h2 p{
     margin-top: 20px;
 }
+.dev{
+    text-decoration: none;
+}
+.dev:hover{
+    background-color: tomato;
+    color:blue;
+}
